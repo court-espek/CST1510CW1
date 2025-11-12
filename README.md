@@ -8,7 +8,7 @@ This is a portfolio of all the submitted tasks from Week 1 to Week 5. The files 
 - [Week **2** - Password Cracker](#week-2-password-cracker)
 - [Week **3** - Sublists](#week-3-sublists)
 - [Week **3** - Quiz Variations](#week-4-quiz-variations)
-- [Week **4** - Binary to Decimal](week-4-binary-to-decimal)
+- [Week **4** - Binary to Decimal](#week-4-binary-to-decimal)
 - [Week **5** - Instance of Word Counter](#week-5-instance-of-word-counter)
 ***
 
