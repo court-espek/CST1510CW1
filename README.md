@@ -1,6 +1,7 @@
 # CST1510 Coursework 1 - Portfolio
 
-This is a portfolio of all the submitted tasks from Week 1 to Week 5. The files are separated into different folders according to week, as such, some folders may contain more than one Python file.
+This is a portfolio of all the submitted tasks from Week 1 to Week 5. The files are separated into different folders according to week, as such, some folders may contain more than one Python file.  
+**STUDENT ID**: M01090860
 
 ## Table of Contents
 - [Week **1** - Auth Event](#week-1-auth-event)
